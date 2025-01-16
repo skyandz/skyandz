@@ -1,10 +1,10 @@
-# Hi there 👋
+# Hi there 🙋🏻‍♀️
 
 I am a third-year Computer Science student with an interest in software development and a passion for exploring new technologies!
 
 ---
 
-# Skills 💪
+# Skills 💪🏻
 - Programming Languages: Python, C, C++, Java, R
 - Web Development: HTML, CSS, Boostrap, JavaScript, Vue.js, Node.js, Express.js
 - Database: PostgreSQL, Microsoft SQL Server
