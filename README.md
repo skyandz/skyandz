@@ -1,6 +1,6 @@
 # Hi there 🙋🏻‍♀️
 
-I am a third-year Computer Science student with an interest in software development and a passion for exploring new technologies!
+I am a third-year Computer Science student with an interest in software development and a passion for exploring new technologies. I look forward to continuously improving my skills and becoming a part of building a better future through technology! 🙏
 
 ---
 
