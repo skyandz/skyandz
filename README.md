@@ -19,3 +19,10 @@ I am a third-year Computer Science student with an interest in software developm
 - C++
 - IoT
 - SA
+
+---
+REWARDS & ACTIVITIES
+- 2023 Academic Excellence Awards for students who obtained a GPA over 3.50
+- Attended and completed Figma Training in September 2024
+- Attended and completed Next.js Training in November 2024
+- Attended and completed LINK Certified Network Cabling for Engineering Training in October 2024
