@@ -4,7 +4,7 @@ I am a third-year Computer Science student with an interest in software developm
 
 ---
 
-# Skills
+# Skills 💪
 - Programming Languages: Python, C, C++, Java, R
 - Web Development: HTML, CSS, Boostrap, JavaScript, Vue.js, Node.js, Express.js
 - Database: PostgreSQL, Microsoft SQL Server
@@ -14,4 +14,8 @@ I am a third-year Computer Science student with an interest in software developm
 
 ---
 
-# Projects:
+# Projects 📂
+- Web
+- C++
+- IoT
+- SA
