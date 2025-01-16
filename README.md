@@ -8,7 +8,7 @@ I am a third-year Computer Science student with an interest in software developm
 - **Programming Languages:** Python, C, C++, Java, R
 - **Web Development:** HTML, CSS, Boostrap, JavaScript, Vue.js, Node.js, Express.js
 - **Database:** PostgreSQL, Microsoft SQL Server
-- **Internet of Things:**
+- **Internet of Things:** Arduino, ESP8266
 - **Data Visualization:** Power Bi, Rapid Miner
 - **System Analysis & Design:** Draw.io, Miro, Figma
 
