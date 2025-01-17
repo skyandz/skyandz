@@ -11,9 +11,9 @@ I am a third-year Computer Science student with an interest in software developm
 - **System Analysis & Design:** Draw.io, Miro, Figma
 
 # Projects 📂
-- [E-Commerce Website](https://github.com/skyandz/e-commerce-website)
 - [Parcels Management System](https://github.com/skyandz/parcels-management-system)
 - [Simple Math Game](https://github.com/skyandz/simple-math-game)
+- [E-Commerce Website](https://github.com/skyandz/e-commerce-website)
 - [Airline Reservation System](https://github.com/skyandz/airline-reservation-system)
 
 # REWARDS & ACTIVITIES 🏅
