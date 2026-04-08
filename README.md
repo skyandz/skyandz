@@ -6,7 +6,7 @@ I am a recent Computer Science graduate with an interest in software development
 - **Programming Languages:** Python, C, C++, Java, R
 - **Web Development:** HTML, CSS, Boostrap, JavaScript, Vue.js, Node.js, Express.js
 - **Database:** PostgreSQL, Microsoft SQL Server
-- **Internet of Things:** Arduino, ESP8266
+- **Internet of Things:** Arduino, ESP8266, STM32
 - **Data Visualization:** Power Bi, Rapid Miner
 - **System Analysis & Design:** Draw.io, Miro, Figma
 
