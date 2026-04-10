@@ -16,7 +16,7 @@ I am a recent Computer Science graduate with an interest in software development
 - [E-Commerce Website](https://github.com/skyandz/e-commerce-website)
 - [Airline Reservation System](https://github.com/skyandz/airline-reservation-system)
 
-# REWARDS & ACTIVITIES 🏅
+# AWARDS & ACTIVITIES 🏅
 - 2023 Academic Excellence Awards for students who obtained a GPA over 3.50
 - Attended and completed Figma Training in September 2024
 - Attended and completed Next.js Training in November 2024
