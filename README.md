@@ -10,6 +10,6 @@ Computer Science fresh graduate with internship experience in software developme
 
 # Projects 📂
 - [Cinema Booking Web Application](https://github.com/skyandz/CinemaBooking/tree/master)
-  - *Tools:* C#, ASP.NET Core MVC, SQL Server
+*Tools:* C#, ASP.NET Core MVC, SQL Server
 
 
