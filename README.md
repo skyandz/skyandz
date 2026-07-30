@@ -9,7 +9,6 @@ Computer Science fresh graduate with internship experience in software developme
 - *Data Visualization:* Microsoft Power BI
 
 # Projects 📂
-- [Cinema Booking Web Application](https://github.com/skyandz/CinemaBooking/tree/master)
-*Tools:* C#, ASP.NET Core MVC, SQL Server
+- [Cinema Booking Web Application](https://github.com/skyandz/CinemaBooking/tree/master) with C#, ASP.NET Core MVC, SQL Server
 
 
